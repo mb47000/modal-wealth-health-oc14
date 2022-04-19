@@ -1,7 +1,7 @@
 {
   "name": "modal-wealth-health-oc14",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {},
   "scripts": {
     "start": "react-scripts start",
@@ -33,7 +33,6 @@
       "last 1 safari version"
     ]
   },
-  "main": "index.js",
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/preset-env": "^7.16.11",
