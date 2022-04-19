@@ -1,8 +1,7 @@
 {
-  "name": "modal-wealth-health-oc14",
+  "name": "@mb47000/modal-wealth-health-oc14",
   "version": "0.1.0",
   "private": false,
-  "dependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "npm run prepare-build && npm run copy",
@@ -46,5 +45,19 @@
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mb47000/modal-wealth-health-oc14.git"
+  },
+  "author": "Michel Brousse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mb47000/modal-wealth-health-oc14/issues"
+  },
+  "homepage": "https://github.com/mb47000/modal-wealth-health-oc14#readme"
 }
